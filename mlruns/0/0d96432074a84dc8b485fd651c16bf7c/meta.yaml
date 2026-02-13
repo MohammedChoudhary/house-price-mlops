@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/Devops_MLops/mlruns/0/0d96432074a84dc8b485fd651c16bf7c/artifacts
+end_time: 1770955063197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d96432074a84dc8b485fd651c16bf7c
+run_name: clean-fox-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770955062573
+status: 4
+tags: []
+user_id: Administrator

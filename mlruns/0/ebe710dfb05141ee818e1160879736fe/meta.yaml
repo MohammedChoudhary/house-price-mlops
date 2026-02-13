@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/Devops_MLops/mlruns/0/ebe710dfb05141ee818e1160879736fe/artifacts
+end_time: 1770956172523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebe710dfb05141ee818e1160879736fe
+run_name: merciful-snail-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770956167713
+status: 3
+tags: []
+user_id: Administrator

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/Devops_MLops/mlruns/0/31ea56cbbf4444438b4003504c481871/artifacts
+end_time: 1770955854714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31ea56cbbf4444438b4003504c481871
+run_name: respected-rook-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770955849463
+status: 3
+tags: []
+user_id: Administrator

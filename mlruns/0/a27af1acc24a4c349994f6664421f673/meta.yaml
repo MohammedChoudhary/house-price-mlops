@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/Devops_MLops/mlruns/0/a27af1acc24a4c349994f6664421f673/artifacts
+end_time: 1770955220570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a27af1acc24a4c349994f6664421f673
+run_name: tasteful-owl-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770955212588
+status: 3
+tags: []
+user_id: Administrator
