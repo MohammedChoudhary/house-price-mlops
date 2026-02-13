@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Administrator/Desktop/Devops_MLops/mlruns/0/f0387e2136d2439497383bf5d46199ff/artifacts
+end_time: 1770958519533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0387e2136d2439497383bf5d46199ff
+run_name: merciful-ram-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770958507346
+status: 3
+tags: []
+user_id: Administrator
